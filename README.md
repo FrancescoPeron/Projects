@@ -20,3 +20,5 @@ Here there are all the projects I did while in my bachelor in Physics and Master
 - Solar System's evolution in time with different propagation methods (Verlet and Runge-Kutta)
 - Study of Prisoner's Dilemma with different conditions
 - Comparison between a Classical Neural Network and a Quantum Neural Network
+- Advanced analysis of exoplanet dataset using Markov Chains
+- Analysis of a real dataset using a CPU cluster
